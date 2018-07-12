@@ -18,7 +18,7 @@ npm run build --report
 
 ### vue ,vue-router, vuex
 
-### 布局采用 flexible+px2rem 编码过程中只需要按照实际的 px 进行编码
+### 布局采用 flexible+px2rem 编码过程中只需要按照实际的 px 进行编码，框架会自动转换成 rem
 
 ### 支持 Less 进行 css 编写
 
