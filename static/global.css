@@ -1,0 +1,240 @@
+[v-cloak] {
+    display: none;
+  }
+  body,
+  div,
+  dl,
+  dt,
+  dd,
+  ul,
+  ol,
+  li,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  pre,
+  code,
+  form,
+  fieldset,
+  legend,
+  input,
+  button,
+  textarea,
+  p,
+  blockquote,
+  th,
+  td {
+    margin: 0;
+    padding: 0;
+  }
+  fieldset,
+  img {
+    border: 0;
+  }
+  :focus {
+    outline: 0;
+  }
+  address,
+  caption,
+  cite,
+  code,
+  dfn,
+  em,
+  strong,
+  th,
+  var,
+  optgroup {
+    font-style: normal;
+    font-weight: normal;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 100%;
+    font-weight: normal;
+  }
+  abbr,
+  acronym {
+    border: 0;
+    font-variant: normal;
+  }
+  input,
+  button,
+  textarea,
+  select,
+  optgroup,
+  option {
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+  }
+  code,
+  kbd,
+  samp,
+  tt {
+    font-size: 100%;
+  }
+  input,
+  button,
+  textarea,
+  select {
+    *font-size: 100%;
+  }
+  ol,
+  ul {
+    list-style: none;
+  }
+  i {
+    font-style: normal;
+  }
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  caption,
+  th {
+    text-align: left;
+  }
+  sup,
+  sub {
+    font-size: 100%;
+    vertical-align: baseline;
+  }
+  :link,
+  :visited,
+  ins {
+    color: #1e1e1e;
+    text-decoration: none;
+  }
+  blockquote,
+  q {
+    quotes: none;
+  }
+  blockquote:before,
+  blockquote:after,
+  q:before,
+  q:after {
+    content: '';
+    content: none;
+  }
+  .clearfix:after {
+    content: '.';
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+    font-size: 0;
+  }
+  .clearfix {
+    display: inline-block;
+  }
+  * html .clearfix {
+    height: 1%;
+  }
+  .clearfix {
+    display: block;
+  }
+  .clearfix {
+    zoom: 1;
+  }
+  .pull-right {
+    float: right !important;
+  }
+  .pull-left {
+    float: left !important;
+  }
+  body,
+  html {
+    font-family: 'STHeiti', 'Microsoft YaHei', Helvetica, Arial, sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    font-size: 16px; /*no*/
+    font-weight: 400;
+  }
+  body {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+  }
+  body {
+    width: 10rem;
+    margin: 0 auto;
+    height: 100%;
+  }
+  @media screen and (max-width: 321px) {
+    body {
+      font-size: 12px; /*no*/
+    }
+    .f-lgx {
+      font-size: 16px; /*no*/
+    }
+    .f-lg {
+      font-size: 14px; /*no*/
+    }
+    .f-sm {
+      font-size: 12px; /*no*/
+    }
+    .f-xs {
+      font-size: 12px; /*no*/
+    }
+  }
+  @media screen and (min-width: 321px) and (max-width: 375px) {
+    body {
+      font-size: 14px; /*no*/
+    }
+    .f-lgx {
+      font-size: 18px; /*no*/
+    }
+    .f-lg {
+      font-size: 16px; /*no*/
+    }
+    .f-sm {
+      font-size: 14px; /*no*/
+    }
+    .f-xs {
+      font-size: 12px; /*no*/
+    }
+  }
+  @media screen and (min-width: 376px) and (max-width: 414px) {
+    body {
+      font-size: 14px; /*no*/
+    }
+    .f-lgx {
+      font-size: 18px; /*no*/
+    }
+    .f-lg {
+      font-size: 16px; /*no*/
+    }
+    .f-sm {
+      font-size: 14px; /*no*/
+    }
+    .f-xs {
+      font-size: 12px; /*no*/
+    }
+  }
+  @media screen and (min-width: 415px) {
+    body {
+      font-size: 12px; /*no*/
+    }
+    .f-lgx {
+      font-size: 16px; /*no*/
+    }
+    .f-lg {
+      font-size: 14px; /*no*/
+    }
+    .f-sm {
+      font-size: 12px; /*no*/
+    }
+    .f-xs {
+      font-size: 10px; /*no*/
+    }
+  }
+  
